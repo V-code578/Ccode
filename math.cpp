@@ -3,4 +3,7 @@ void main()
 {
   int a=2,b=1,sum;
   sum=a+b;
+  
+  
+  mul=a*b;
 }
